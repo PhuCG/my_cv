@@ -1,18 +1,53 @@
 # Nguyen Trong Phu
 
-**Senior Flutter Developer**
+**Flutter Developer**
 
 📧 abc@gmail.com | 📱 0908379356 | 🔗 https://github.com/ABC
 
 ---
 
-## Professional Summary
+## OBJECTIVE
 
-Flutter developer with 2+ years of production experience delivering cross‑platform apps end-to-end. Shipped Cita (28+ languages) to App Store and Google Play, and contributed to Dicamon (5M+ downloads). Specialized in Flutter/Dart, offline‑first architectures (Brick ORM, Hive/Isar), real‑time features (WebSocket, STT/TTS), and CI/CD (Codemagic). Focused on scalable modular codebases, quality, and measurable impact.
+Seeking senior Flutter developer or technical lead role to leverage production experience in building scalable mobile applications. Interested in leading development teams, implementing modern workflows, and contributing to innovative mobile products.
 
 ---
 
-## Professional Experience
+## EDUCATION
+
+**Bachelor's Degree** | *Industrial University of Ho Chi Minh City* | 2019-2023
+• GPA: 3.29/4.0
+
+---
+
+## SKILLS
+
+**Mobile Development:** Flutter (2+ years), Dart  
+**State Management:** Riverpod, BLoC, Provider  
+**Architecture:** Clean Architecture, SOLID, feature‑first modularization, offline‑first  
+**Backend & Realtime:** Firebase (Auth, Firestore, Functions), REST, WebSocket  
+**Data & Persistence:** SQLite, Hive, Isar, Brick ORM (brick_offline_first)  
+**Testing & Quality:** Unit, Widget, Integration testing; Sentry (crash reporting)  
+**CI/CD & Release:** Codemagic, Google Play Console, App Store Connect, code signing & provisioning, TestFlight & Internal Testing, review process  
+**Analytics & Monetization:** Firebase Analytics, Mixpanel, RevenueCat (IAP/subscriptions)  
+**Tools:** Git, Code Generation, Cursor IDE, Figma  
+**Third‑party Services:** RevenueCat, Sentry, Mixpanel, Wiredash, Google/Apple/Facebook Auth, YouTube API
+
+---
+
+## CERTIFICATIONS
+
+**Flutter Development** | *Self-taught & Professional Projects* | 2022-Present
+• Advanced Flutter/Dart programming and cross-platform development
+• Firebase ecosystem and modern mobile architecture patterns
+• AI-enhanced development workflows and productivity tools
+
+**TOEIC (Test of English for International Communication)** | *2023*
+• Overall Score: 545/990
+• Demonstrates English proficiency for international development collaboration
+
+---
+
+## WORK EXPERIENCE
 
 ### **Flutter Developer | Startup Project**
 **Cita AI Language Learning App** | *2023 - Present*
@@ -50,47 +85,14 @@ Flutter developer with 2+ years of production experience delivering cross‑plat
 
 ---
 
-## Technical Skills
+## ADDITIONAL INFORMATION
 
-**Mobile Development:** Flutter (2+ years), Dart  
-**State Management:** Riverpod, BLoC, Provider  
-**Architecture:** Clean Architecture, SOLID, feature‑first modularization, offline‑first  
-**Backend & Realtime:** Firebase (Auth, Firestore, Functions), REST, WebSocket  
-**Data & Persistence:** SQLite, Hive, Isar, Brick ORM (brick_offline_first)  
-**Testing & Quality:** Unit, Widget, Integration testing; Sentry (crash reporting)  
-**CI/CD & Release:** Codemagic, Google Play Console, App Store Connect, code signing & provisioning, TestFlight & Internal Testing, review process  
-**Analytics & Monetization:** Firebase Analytics, Mixpanel, RevenueCat (IAP/subscriptions)  
-**Tools:** Git, Code Generation, Cursor IDE, Figma  
-**Third‑party Services:** RevenueCat, Sentry, Mixpanel, Wiredash, Google/Apple/Facebook Auth, YouTube API
+**Professional Summary:**
+Flutter developer with 2+ years of production experience delivering cross‑platform apps end-to-end. Shipped Cita (28+ languages) to App Store and Google Play, and contributed to Dicamon (5M+ downloads). Specialized in Flutter/Dart, offline‑first architectures (Brick ORM, Hive/Isar), real‑time features (WebSocket, STT/TTS), and CI/CD (Codemagic). Focused on scalable modular codebases, quality, and measurable impact.
 
----
-
-## Education & Certifications
-
-**Bachelor's Degree** | *Industrial University of Ho Chi Minh City* | 2019-2023
-• GPA: 3.29/4.0
-
-**Flutter Development** | *Self-taught & Professional Projects* | 2022-Present
-• Advanced Flutter/Dart programming and cross-platform development
-• Firebase ecosystem and modern mobile architecture patterns
-• AI-enhanced development workflows and productivity tools
-
-**TOEIC (Test of English for International Communication)** | *2023*
-• Overall Score: 545/990
-• Demonstrates English proficiency for international development collaboration
-
----
-
-## Notable Achievements
-
+**Notable Achievements:**
 • **Production App Deployment:** Successfully launched complex mobile app on both major app stores
 • **International Scale:** Built and deployed app supporting 28+ languages and global users  
 • **AI Integration:** Early adopter of AI development tools resulting in 40% productivity improvement
 • **Full-Stack Development:** Designed, developed, and deployed complete product from concept to market
 • **Modern Workflows:** Implemented professional development practices with CI/CD and team collaboration
-
----
-
-## Professional Goals
-
-Seeking senior Flutter developer or technical lead role to leverage production experience in building scalable mobile applications. Interested in leading development teams, implementing modern workflows, and contributing to innovative mobile products.
