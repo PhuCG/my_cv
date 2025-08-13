@@ -21,7 +21,7 @@ Seeking senior Flutter developer or technical lead role to leverage production e
 
 ## SKILLS
 
-**Mobile Development:** Flutter (2+ years), Dart  
+**Mobile Development:** Flutter (2+ years), Dart, Local Notifications (Android/iOS), Platform Channels  
 **State Management:** Riverpod, BLoC, Provider  
 **Architecture:** Clean Architecture, SOLID, feature‑first modularization, offline‑first  
 **Backend & Realtime:** Firebase (Auth, Firestore, Functions), REST, WebSocket  
